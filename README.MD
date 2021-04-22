@@ -4,6 +4,7 @@ master_3
 master_4
 shared_1
 feature_1
+feature_2
 
 A library with more than 50 different loading spinners for Angular 4 - 11. (https://napster2210.github.io/ngx-spinner/)
 
